@@ -1,2 +1,1 @@
-# background-selector
-Desenvolvido com ReactJS
+## Desenvolvido com ReactJS
